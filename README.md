@@ -1,4 +1,4 @@
-# analise-preditiva-jogos-steam
+# Análise Preditiva de Tendências e Sucesso de Jogos na Steam
 
 Objetivo: Oferecer insights valiosos sobre o mercado de jogos digitais e também ajudar desenvolvedores e editores a otimizar suas estratégias para alcançar sucesso na plataforma Steam.
 
