@@ -7,7 +7,7 @@ Objetivo: Oferecer insights valiosos sobre o mercado de jogos digitais e também
 
 ### Coleta de Dados: Utilizar a API da Steam para coletar dados abrangentes sobre jogos, incluindo gêneros, preços, datas de lançamento, avaliações dos usuários, horas jogadas e metadados relacionados.
 
-### Análise de Sentimento: Aplicar técnicas de processamento de linguagem natural aprendidos no curs opara analisar os comentários e avaliações dos usuários, identificando as tendências gerais de sentimentos em relação a diferentes jogos.
+### Análise de Sentimento: Aplicar técnicas de processamento de linguagem natural aprendidos no curso para analisar os comentários e avaliações dos usuários, identificando as tendências gerais de sentimentos em relação a diferentes jogos.
 
 ### Análise de Tendências: Investigar padrões de popularidade e vendas ao longo do tempo, correlacionando-os com eventos específicos (como promoções, atualizações de jogos, eventos globais).
 
