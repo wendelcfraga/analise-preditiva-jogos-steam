@@ -1,8 +1,9 @@
 # analise-preditiva-jogos-steam
-Este projeto busca oferecer insights valiosos sobre o mercado de jogos digitais e também ajudar desenvolvedores e editores a otimizar suas estratégias para alcançar sucesso na plataforma Steam.
+
+Objetivo: Oferecer insights valiosos sobre o mercado de jogos digitais e também ajudar desenvolvedores e editores a otimizar suas estratégias para alcançar sucesso na plataforma Steam.
 
 
-## Esse projeto envolveria as etapas e objetivos específicos:
+## O projeto busca realizar as etapas abaixo:
 
 ### Coleta de Dados: Utilizar a API da Steam para coletar dados abrangentes sobre jogos, incluindo gêneros, preços, datas de lançamento, avaliações dos usuários, horas jogadas e metadados relacionados.
 
